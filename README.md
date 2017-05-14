@@ -1,2 +1,2 @@
 # public
-This is my first repository
+Software Engineering
